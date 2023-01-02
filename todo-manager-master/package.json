@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "kolluri Vishnu <vishnu.kolluri02@gmail.com>",
+  "author": "Sushanth Reddy <sushanthreddy0005@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
